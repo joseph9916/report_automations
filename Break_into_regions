@@ -1,0 +1,9 @@
+import pandas as pd
+import openpyxl
+
+
+
+df = pd.read_excel("C:\Users\ebunope.ajayi\OneDrive - IBEDC\Desktop\IBEDC 2025\TECH DATA FOLDER FROM PRECIOUS SYSTEM\TECH DATA\TECHNICAL DATA AS AT\2025\JULY 2025\TECHNICAL DATA AS AT 25-07-2025.xlsx")
+
+
+for 
